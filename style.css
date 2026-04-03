@@ -1,3 +1,20 @@
+body.dark {
+    background-color: #121212;
+    color: white;
+}
+
+body.dark input,
+body.dark button {
+    background-color: #333;
+    color: white;
+    border: none;
+}
+
+body.dark li {
+    background-color: #1e1e1e;
+    padding: 10px;
+    border-radius: 5px;
+}
 body {
     font-family: Arial;
     text-align: center;
